@@ -72,7 +72,7 @@ const renderContent = (onClose) => ({
   6: (
     <InfoBox
       tile="Pokemon Dex"
-      text="Using React,TailwindCss, Node JS, ExpressJS and MongoDB to make a PokemonDex "
+      text="Using React,TailwindCss, Node JS, ExpressJS and MongoDB to make a FULLSTACK PokemonDex "
       link="https://github.com/NyaNyav2/PokemonDex"
       onClose={onClose}
     />
